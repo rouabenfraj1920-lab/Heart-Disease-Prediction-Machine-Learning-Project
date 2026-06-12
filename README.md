@@ -6,8 +6,10 @@ Predict heart disease:
 
 1 → Heart Disease ❤️
 0 → No Heart Disease 💚
+
 ⚙️ Pipeline
 🔍 Data Exploration
+
 Dataset analysis
 Feature understanding
 Correlation study
@@ -20,6 +22,7 @@ Handling missing values (rule-based strategy)
 <10% → mean/mode
 Encoding categorical features
 Feature scaling (StandardScaler)
+
 🤖 Models
 Logistic Regression (baseline)
 Random Forest Classifier
