@@ -1,7 +1,7 @@
 # Heart Disease Prediction-Machine Learning Project
 Heart Disease Prediction project using machine learning to classify whether a patient has heart disease based on medical data. The pipeline includes data exploration, missing value handling, feature encoding ; scaling, and model training using Logistic Regression, evaluated with accuracy, precision, recall, and F1-score.
-🎯 Objective
 
+🎯 Objective:
 Predict heart disease:
 
 1 → Heart Disease 
@@ -9,13 +9,13 @@ Predict heart disease:
 
 
 ⚙️ Pipeline: 
-🔍 Data Exploration.
+🔍 Data Exploration:
 Dataset analysis
 Feature understanding
 Correlation study
 
 
-🧹 Data Preprocessing.
+🧹 Data Preprocessing:
 Handling missing values 
 Encoding categorical features
 Feature scaling (StandardScaler)
