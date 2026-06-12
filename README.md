@@ -9,39 +9,29 @@ Predict heart disease:
 
 ⚙️ Pipeline
 🔍 Data Exploration
-
 Dataset analysis
 Feature understanding
 Correlation study
+
 🧹 Data Preprocessing
-Handling missing values (rule-based strategy)
-
-50% → drop
-
-10–50% → median/mode
-<10% → mean/mode
+Handling missing values 
 Encoding categorical features
 Feature scaling (StandardScaler)
 
 🤖 Models
 Logistic Regression (baseline)
 Random Forest Classifier
+
 📊 Evaluation
 Accuracy
 Precision
 Recall
 F1-score
 Confusion Matrix
-📈 Results
 
+📈 Results
 Both models are compared to evaluate performance on unseen test data.
 
-🧠 Key Skills Demonstrated
-Data preprocessing
-Missing value handling
-Feature engineering
-Classification models
-Model evaluation
 🚀 Tech Stack
 Python
 Pandas
@@ -49,6 +39,8 @@ NumPy
 Scikit-learn
 Matplotlib
 Seaborn
+
 💡 Conclusion
+This project demonstrates a complete machine learning workflow for healthcare prediction, from raw data preprocessing to model evaluation.
 
 This project demonstrates a complete machine learning workflow for healthcare prediction, from raw data preprocessing to model evaluation.
