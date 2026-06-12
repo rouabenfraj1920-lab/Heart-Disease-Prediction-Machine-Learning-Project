@@ -8,7 +8,7 @@ Predict heart disease:
 0 → No Heart Disease 
 
 
-⚙️ Pipeline
+⚙️ Pipeline: 
 🔍 Data Exploration
 Dataset analysis
 Feature understanding
@@ -21,17 +21,17 @@ Encoding categorical features
 Feature scaling (StandardScaler)
 
 
-🤖 Models
+🤖 Models:
 Logistic Regression 
 
-📊 Evaluation
+📊 Evaluation: 
 Accuracy
 Precision
 Recall
 F1-score
 Confusion Matrix
 
-🚀 Tech Stack
+🚀 Tech Stack:
 Python
 Pandas
 NumPy
@@ -39,7 +39,5 @@ Scikit-learn
 Matplotlib
 Seaborn
 
-💡 Conclusion
-This project demonstrates a complete machine learning workflow for healthcare prediction, from raw data preprocessing to model evaluation.
-
+💡 Conclusion:
 This project demonstrates a complete machine learning workflow for healthcare prediction, from raw data preprocessing to model evaluation.
