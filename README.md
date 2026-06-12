@@ -1,11 +1,11 @@
-# Heart-Disease-Prediction-Machine-Learning-Project
-Heart Disease Prediction project using machine learning to classify whether a patient has heart disease based on medical data. The pipeline includes data exploration, missing value handling, feature encoding &amp; scaling, and model training using Logistic Regression and Random Forest, evaluated with accuracy, precision, recall, and F1-score.
+# Heart Disease Prediction-Machine Learning Project
+Heart Disease Prediction project using machine learning to classify whether a patient has heart disease based on medical data. The pipeline includes data exploration, missing value handling, feature encoding ; scaling, and model training using Logistic Regression, evaluated with accuracy, precision, recall, and F1-score.
 🎯 Objective
 
 Predict heart disease:
 
-1 → Heart Disease ❤️
-0 → No Heart Disease 💚
+1 → Heart Disease 
+0 → No Heart Disease 
 
 ⚙️ Pipeline
 🔍 Data Exploration
@@ -19,8 +19,7 @@ Encoding categorical features
 Feature scaling (StandardScaler)
 
 🤖 Models
-Logistic Regression (baseline)
-Random Forest Classifier
+Logistic Regression 
 
 📊 Evaluation
 Accuracy
@@ -28,9 +27,6 @@ Precision
 Recall
 F1-score
 Confusion Matrix
-
-📈 Results
-Both models are compared to evaluate performance on unseen test data.
 
 🚀 Tech Stack
 Python
