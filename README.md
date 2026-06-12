@@ -9,13 +9,13 @@ Predict heart disease:
 
 
 ⚙️ Pipeline: 
-🔍 Data Exploration
+🔍 Data Exploration.
 Dataset analysis
 Feature understanding
 Correlation study
 
 
-🧹 Data Preprocessing
+🧹 Data Preprocessing.
 Handling missing values 
 Encoding categorical features
 Feature scaling (StandardScaler)
