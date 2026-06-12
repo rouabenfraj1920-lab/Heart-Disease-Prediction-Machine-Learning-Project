@@ -7,6 +7,7 @@ Predict heart disease:
 1 → Heart Disease 
 0 → No Heart Disease 
 
+
 ⚙️ Pipeline
 🔍 Data Exploration
 Dataset analysis
