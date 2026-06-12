@@ -14,10 +14,12 @@ Dataset analysis
 Feature understanding
 Correlation study
 
+
 🧹 Data Preprocessing
 Handling missing values 
 Encoding categorical features
 Feature scaling (StandardScaler)
+
 
 🤖 Models
 Logistic Regression 
